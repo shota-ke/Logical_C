@@ -4,8 +4,8 @@
 
 Noiseless detector-slice diagrams with operations at code distance **d = 5**:
 
-- [Swap-braiding circuit (bomnbin)](figs/bomnbin_d5_clean_detslice_with_ops.svg)
-- [Diagonal-braiding circuit (gidney)](figs/gidney_d5_clean_detslice_with_ops.svg)
+- [Swap-braiding circuit (bomnbin)](figs/bomnbin_d5_clean_detslice_with_ops.png)
+- [Diagonal-braiding circuit (gidney)](figs/gidney_d5_clean_detslice_with_ops.png)
 
 ## Numerical results
 
